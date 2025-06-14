@@ -9,8 +9,7 @@ This project showcases my skills, projects, and background as a developer.
 - React
 - HTML & CSS
 - JavaScript
-- Bootstrap / Tailwind CSS (if applicable)
-- [Add other tools/libraries you used]
+- Tailwind CSS
 
 ## 📁 Features
 
@@ -18,7 +17,6 @@ This project showcases my skills, projects, and background as a developer.
 - 💼 Projects showcase with links and descriptions
 - 🛠️ Skills section
 - 📞 Contact form or social media links
-- 🌙 Dark/Light mode (if included)
 - ✨ Fully responsive design
 
 ## 🚀 Getting Started
